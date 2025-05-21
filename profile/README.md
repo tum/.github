@@ -21,6 +21,10 @@ Interested in student projects like the TUM Campus App?\
     <td><a href="https://github.com/TUM-AAS">Autonomous Aerial Systems</a></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/tumBAIS.png?size=40" alt="Business Analytics and Intelligent Systems" width="40"/></td>
+    <td><a href="https://github.com/tumBAIS">Business Analytics and Intelligent Systems</a></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/tum-vision.png?size=40" alt="Computer Vision Group" width="40"/></td>
     <td><a href="https://github.com/tum-vision">Computer Vision Group</a></td>
   </tr>
