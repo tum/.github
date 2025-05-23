@@ -57,6 +57,10 @@ Interested in student projects like the TUM Campus App?\
     <td><a href="https://github.com/tum-esi">Embedded Systems and Internet of Things</a></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/tum-esm.png?size=40" alt="Environmental Sensing and Modeling" width="40"/></td>
+    <td><a href="https://github.com/tum-esm">Environmental Sensing and Modeling</a></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/tum-pbs.png?size=40" alt="Physics-based Simulation" width="40"/></td>
     <td><a href="https://github.com/tum-pbs">Physics-based Simulation</a></td>
   </tr>
