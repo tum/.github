@@ -9,59 +9,59 @@ Interested in student projects like the TUM Campus App?\
 
 <table>
   <tr>
-    <td><img src="https://github.com/ls1intum.png?size=40" alt="Applied Software Engineering" width="40"/></td>
+    <td><img src="https://github.com/ls1intum.png?size=256" alt="Applied Software Engineering" width="40"/></td>
     <td><a href="https://github.com/ls1intum">Applied Software Engineering</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TUMFTM.png?size=40" alt="Institute of Automotive Technology" width="40"/></td>
+    <td><img src="https://github.com/TUMFTM.png?size=256" alt="Institute of Automotive Technology" width="40"/></td>
     <td><a href="https://github.com/TUMFTM">Automotive Technology</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TUM-AAS.png?size=40" alt="Autonomous Aerial Systems" width="40"/></td>
+    <td><img src="https://github.com/TUM-AAS.png?size=256" alt="Autonomous Aerial Systems" width="40"/></td>
     <td><a href="https://github.com/TUM-AAS">Autonomous Aerial Systems</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tumBAIS.png?size=40" alt="Business Analytics and Intelligent Systems" width="40"/></td>
+    <td><img src="https://github.com/tumBAIS.png?size=256" alt="Business Analytics and Intelligent Systems" width="40"/></td>
     <td><a href="https://github.com/tumBAIS">Business Analytics and Intelligent Systems</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tum-vision.png?size=40" alt="Computer Vision Group" width="40"/></td>
+    <td><img src="https://github.com/tum-vision.png?size=256" alt="Computer Vision Group" width="40"/></td>
     <td><a href="https://github.com/tum-vision">Computer Vision Group</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tumaer.png?size=40" alt="Chair of Aerodynamics and Fluid Mechanics" width="40"/></td>
+    <td><img src="https://github.com/tumaer.png?size=256" alt="Chair of Aerodynamics and Fluid Mechanics" width="40"/></td>
     <td><a href="https://github.com/tumaer">Chair of Aerodynamics and Fluid Mechanics</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AppliedMechanics.png?size=40" alt="Chair of Applied Mechanics" width="40"/></td>
+    <td><img src="https://github.com/AppliedMechanics.png?size=256" alt="Chair of Applied Mechanics" width="40"/></td>
     <td><a href="https://github.com/AppliedMechanics">Chair of Applied Mechanics</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tumcms.png?size=40" alt="Chair of Computational Modeling and Simulation" width="40"/></td>
+    <td><img src="https://github.com/tumcms.png?size=256" alt="Chair of Computational Modeling and Simulation" width="40"/></td>
     <td><a href="https://github.com/tumcms">Chair of Computational Modeling and Simulation </a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tum-gis.png?size=40" alt="Chair of Geoinformatics" width="40"/></td>
+    <td><img src="https://github.com/tum-gis.png?size=256" alt="Chair of Geoinformatics" width="40"/></td>
     <td><a href="https://github.com/tum-gis">Chair of Geoinformatics</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TUM-LIS.png?size=40" alt="Chair of Integrated Systems" width="40"/></td>
+    <td><img src="https://github.com/TUM-LIS.png?size=256" alt="Chair of Integrated Systems" width="40"/></td>
     <td><a href="https://github.com/TUM-LIS">Chair of Integrated Systems </a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/TUM-VT.png?size=40" alt="Chair of Traffic Engineering and Control" width="40"/></td>
+    <td><img src="https://github.com/TUM-VT.png?size=256" alt="Chair of Traffic Engineering and Control" width="40"/></td>
     <td><a href="https://github.com/TUM-VT">Chair of Traffic Engineering and Control</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tum-esi.png?size=40" alt="Embedded Systems and Internet of Things" width="40"/></td>
+    <td><img src="https://github.com/tum-esi.png?size=256" alt="Embedded Systems and Internet of Things" width="40"/></td>
     <td><a href="https://github.com/tum-esi">Embedded Systems and Internet of Things</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tum-esm.png?size=40" alt="Environmental Sensing and Modeling" width="40"/></td>
+    <td><img src="https://github.com/tum-esm.png?size=256" alt="Environmental Sensing and Modeling" width="40"/></td>
     <td><a href="https://github.com/tum-esm">Environmental Sensing and Modeling</a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tum-pbs.png?size=40" alt="Physics-based Simulation" width="40"/></td>
+    <td><img src="https://github.com/tum-pbs.png?size=256" alt="Physics-based Simulation" width="40"/></td>
     <td><a href="https://github.com/tum-pbs">Physics-based Simulation</a></td>
   </tr>
 </table>
