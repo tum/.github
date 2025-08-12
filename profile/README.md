@@ -64,6 +64,10 @@ Interested in student projects like the TUM Campus App?\
     <td><img src="https://github.com/tum-pbs.png?size=256" alt="Physics-based Simulation" width="40"/></td>
     <td><a href="https://github.com/tum-pbs">Physics-based Simulation</a></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/tum-pbs.png?size=256" alt="University Library" width="40"/></td>
+    <td><a href="https://github.com/TUM-Library">University Library</a></td>
+  </tr>
 </table>
 
 ## Contact Us
