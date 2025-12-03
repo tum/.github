@@ -42,7 +42,7 @@ Interested in student projects like the TUM Campus App?\
   </tr>
   <tr>
     <td><img src="https://github.com/tum-ees.png?size=256" alt="Chair of Electrical Energy Storage Technology" width="40"/></td>
-    <td><a href="https://github.com/tumcms">Chair of Electrical Energy Storage Technology</a></td>
+    <td><a href="https://github.com/tum-ees">Chair of Electrical Energy Storage Technology</a></td>
   </tr>
   <tr>
     <td><img src="https://github.com/tum-gis.png?size=256" alt="Chair of Geoinformatics" width="40"/></td>
