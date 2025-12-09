@@ -41,6 +41,10 @@ Interested in student projects like the TUM Campus App?\
     <td><a href="https://github.com/tumcms">Chair of Computational Modeling and Simulation </a></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/tum-ees.png?size=256" alt="Chair of Electrical Energy Storage Technology" width="40"/></td>
+    <td><a href="https://github.com/tum-ees">Chair of Electrical Energy Storage Technology</a></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/tum-gis.png?size=256" alt="Chair of Geoinformatics" width="40"/></td>
     <td><a href="https://github.com/tum-gis">Chair of Geoinformatics</a></td>
   </tr>
@@ -59,6 +63,10 @@ Interested in student projects like the TUM Campus App?\
   <tr>
     <td><img src="https://github.com/tum-esm.png?size=256" alt="Environmental Sensing and Modeling" width="40"/></td>
     <td><a href="https://github.com/tum-esm">Environmental Sensing and Modeling</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/iwb.png?size=256" alt="Institute for Machine Tools and Industrial Management" width="40"/></td>
+    <td><a href="https://github.com/iwb">Machine Tools and Industrial Management</a></td>
   </tr>
   <tr>
     <td><img src="https://github.com/tum-pbs.png?size=256" alt="Physics-based Simulation" width="40"/></td>
