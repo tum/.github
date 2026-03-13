@@ -73,6 +73,10 @@ Interested in student projects like the TUM Campus App?\
     <td><a href="https://github.com/tum-pbs">Physics-based Simulation</a></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/tum-sam.png?size=256" alt="Professorship of Simulation for Additive Manufacturing" width="40"/></td>
+    <td><a href="https://github.com/tum-sam">Professorship of Simulation for Additive Manufacturing</a></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/tum-pbs.png?size=256" alt="University Library" width="40"/></td>
     <td><a href="https://github.com/TUM-Library">University Library</a></td>
   </tr>
