@@ -57,6 +57,10 @@ Interested in student projects like the TUM Campus App?\
     <td><a href="https://github.com/TUM-VT">Chair of Traffic Engineering and Control</a></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/daisybio.png?size=256" alt="Data Science in Systems Biology" width="40"/></td>
+    <td><a href="https://github.com/daisybio">Data Science in Systems Biology</a></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/tum-esi.png?size=256" alt="Embedded Systems and Internet of Things" width="40"/></td>
     <td><a href="https://github.com/tum-esi">Embedded Systems and Internet of Things</a></td>
   </tr>
