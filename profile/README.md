@@ -73,6 +73,10 @@ Interested in student projects like the TUM Campus App?\
     <td><a href="https://github.com/iwb">Machine Tools and Industrial Management</a></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/tum-research-data-hub.png?size=256" alt="TUM Research Data Hub" width="40"/></td>
+    <td><a href="https://github.com/TUM-Research-Data-Hub">Research Data Hub</a></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/tum-pbs.png?size=256" alt="Physics-based Simulation" width="40"/></td>
     <td><a href="https://github.com/tum-pbs">Physics-based Simulation</a></td>
   </tr>
