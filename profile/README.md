@@ -8,13 +8,13 @@ Interested in student projects like the TUM Campus App?\
 ## Departments and Research Groups
 
 <table>
-  <tr>
-    <td><img src="https://github.com/ls1intum.png?size=256" alt="Applied Education Technologies" width="40"/></td>
-    <td><a href="https://github.com/ls1intum">Applied Education Technologies</a></td>
-  </tr>
     <tr>
     <td><img src="https://github.com/Applied-Econometrics.png?size=256" alt="Applied Econometrics" width="40"/></td>
     <td><a href="https://github.com/Applied-Econometrics">Applied Econometrics</a></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/ls1intum.png?size=256" alt="Applied Education Technologies" width="40"/></td>
+    <td><a href="https://github.com/ls1intum">Applied Education Technologies</a></td>
   </tr>
   <tr>
     <td><img src="https://github.com/TUMFTM.png?size=256" alt="Institute of Automotive Technology" width="40"/></td>
